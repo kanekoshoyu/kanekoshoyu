@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning different sorts of trading strategies for crypto<br>🎯 Goals: retire with my crypto bot<br>🎲 Fun fact: my party name is Mohammed Bin Sho (MBS)</p>
+<p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning different sorts of trading strategies for crypto<br>🎯 Goals: retire with my crypto bot<br>🎲 Fun fact: I'm Japan-Hong Kong mix, and party name is Mohammed Bin Sho (MBS) I love both tech and techno</p>
 
 ###
 
